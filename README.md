@@ -5,7 +5,7 @@ This repository consists of an Aesthetics corpus that was created using text fro
 2. http://premchand.co.in, a website dedicated to the popular novelist Premchand’s stories, and
 3. Bhandarkar Oriental Research Institute’s Digital Library (http://borilib.com)
 
-The repostitory also consists of an exhustive stop word list prepared from the sources listed below:
+The repository also consists of an exhustive stop word list prepared from the sources listed below:
 Wictionary Top 1900
 https://1000mostcommonwords.com/1000-most-common-hindi-words
 https://blogs.transparent.com/hindi/first-100-high-frequency-words-in-hindi
