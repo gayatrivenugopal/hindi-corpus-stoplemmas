@@ -1,4 +1,4 @@
-# stopwordlist
+# Hindi Aesthetics Corpus and Stop Lemma List
 
 This repository consists of an Aesthetics corpus that was created using text from the following sources:
 1. http://hindisamay.com, an e-library maintained by Mahatma Gandhi Antarrashtriya Hindi Vishwa Vidyalaya, Wardha
