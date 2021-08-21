@@ -27,7 +27,7 @@ TDIL Hindi Monolingual Text Corpus ILCI II
 TDIL Hindi English Health ILCI
 
 The "Linguistic Resources" obtained from TDIL have  been developed & made available by TDIL, MeitY, Government of India.
-
+Co-Authors: Dr. Jatinderkumar R. Saini, Dr. Dhanya Pramod
 Copyright © 2019, Gayatri Venugopal
 This work is licensed under GNU GPL v3 https://www.gnu.org/licenses/gpl-3.0.html
 
